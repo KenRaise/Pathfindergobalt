@@ -5,3 +5,4 @@ class foo {
 }
 
 module.exports = (client) => { return new foo(client) }
+//
